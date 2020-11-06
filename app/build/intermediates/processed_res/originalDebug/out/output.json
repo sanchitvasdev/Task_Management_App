@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.sanchit.taskmanagement",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "app-original-debug.apk",
+        "fullName": "originalDebug",
+        "baseName": "original-debug",
+        "dirName": ""
+      },
+      "path": "resources-originalDebug.ap_",
+      "properties": {
+        "packageId": "com.sanchit.taskmanagement",
+        "split": "",
+        "minSdkVersion": "25"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">505668300666-eucvuu42r2ag8sb4p9pebrric8bj487t.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://reminder-afab0.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">505668300666</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsm7GH3BGRvNBSm5PBzUdvypXL3vi_IiU</string>
+    <string name="google_app_id" translatable="false">1:505668300666:android:cae9daf3f0b800bc8c30c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsm7GH3BGRvNBSm5PBzUdvypXL3vi_IiU</string>
+    <string name="google_storage_bucket" translatable="false">reminder-afab0.appspot.com</string>
+    <string name="project_id" translatable="false">reminder-afab0</string>
+</resources>
